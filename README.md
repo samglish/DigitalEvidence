@@ -18,3 +18,10 @@ The **First Responder** in digital forensics is the first person to arrive at th
 - **Remote or encrypted environments**: Makes access and acquisition harder.
 ---
 
+### Why Is This Role Necessary?
+- Digital crime scenes are **time-sensitive**.
+- Evidence must be collected in a **legally acceptable** way.
+- The First Responder ensures the **chain of custody** is preserved.
+- Avoids contamination of data (e.g., by automatic processes, reboot, or user activity).
+- Helps identify whether an incident is **internal or external**, malicious or accidental.
+---
