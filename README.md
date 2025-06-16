@@ -16,16 +16,6 @@ The **First Responder** in digital forensics is the first person to arrive at th
 
 ---
 
-### Obstacles Faced by First Responders
-
-- **Volatility of data**: RAM, open sessions, and temporary files can be lost quickly.
-- **Lack of tools or training**: Not all responders are forensic experts.
-- **Legal constraints**: Actions may require prior authorization (e.g., search warrant).
-- **Time pressure**: Need to act fast while ensuring accuracy.
-- **Remote or encrypted environments**: Makes access and acquisition harder.
-
----
-
 ### Why Is This Role Necessary?
 
 - Digital crime scenes are **time-sensitive**.
