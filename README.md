@@ -17,11 +17,17 @@ The **First Responder** in digital forensics is the first person to arrive at th
 - **Time pressure**: Need to act fast while ensuring accuracy.
 - **Remote or encrypted environments**: Makes access and acquisition harder.
 ---
-
 ### Why Is This Role Necessary?
 - Digital crime scenes are **time-sensitive**.
 - Evidence must be collected in a **legally acceptable** way.
 - The First Responder ensures the **chain of custody** is preserved.
 - Avoids contamination of data (e.g., by automatic processes, reboot, or user activity).
 - Helps identify whether an incident is **internal or external**, malicious or accidental.
+---
+### Key Characteristics of a Good First Responder
+- **Trained in handling digital evidence**
+- **Aware of legal and ethical limits**
+- **Calm and methodical under pressure**
+- **Able to document every step** with timestamps
+- Uses **forensic-safe tools** (write blockers, imaging tools)
 ---
