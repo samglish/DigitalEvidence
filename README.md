@@ -5,3 +5,6 @@ Digital evidence is any information of probative value that is stored or transmi
 > Obstacles
 > Pourquoi ce besoin
 > Caracteristiques
+>Approche Anti-Digital Forensics (ADF)
+>
+
