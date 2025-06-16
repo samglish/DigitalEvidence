@@ -31,3 +31,9 @@ The **First Responder** in digital forensics is the first person to arrive at th
 - **Able to document every step** with timestamps
 - Uses **forensic-safe tools** (write blockers, imaging tools)
 ---
+
+### Anti-Digital Forensics (ADF) Approaches
+**Anti-Digital Forensics** refers to techniques used to:
+- **Destroy, hide, or manipulate** digital evidence
+- **Erase traces** of illegal activity
+- **Delay or mislead** investigators
