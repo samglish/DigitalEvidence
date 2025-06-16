@@ -37,3 +37,19 @@ The **First Responder** in digital forensics is the first person to arrive at th
 - **Destroy, hide, or manipulate** digital evidence
 - **Erase traces** of illegal activity
 - **Delay or mislead** investigators
+
+Common ADF techniques:
+- **Data wiping tools** (e.g., `shred`, `dd`, `BleachBit`)
+- **Rootkits and steganography**
+- **Timestamp alteration**
+- **File obfuscation and encryption**
+- **Log cleaning and spoofing**
+
+### Use of `shred` on Linux (ADF Example)
+
+`shred` is a command-line tool in Linux used to **securely erase files** by overwriting them multiple times.
+
+#### Syntax:
+```bash
+shred -n 3 -z -u filename
+```
